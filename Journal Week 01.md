@@ -5,9 +5,13 @@
 Learning Activities & Resources - Using Bootstraps templates (pricing template) and githubs pages tp luarnch a static website and some youtube videos to help explain everything.
 
 https://getbootstrap.com/ 
+
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
 https://docs.github.com/en/pages 
+
 https://www.youtube.com/watch?v=e5AwNU3Y2es 
+
 https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site 
 
 Estimated Hours - **3-4 hours**
