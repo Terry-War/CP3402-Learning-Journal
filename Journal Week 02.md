@@ -1,8 +1,25 @@
-Use heading instead of bold, remember about spelling and grammer. joomla site did not work as intended neither did cloud access.
+# Week 02 - Learning Journal
+## Learning Activities & Resources
+This week was about setting up a Joomla based website, there was a issue with the Joomla site itself for hosting so had to use a alternitive via cloudaccess. This took longer then expected but all worked out in the end.
 
-Week 02
-Learning Activities & Resources
-Estimated Hours
-Content Insights
-Career/Employability/Learning Insights
-Here are some guidelines:
+Everything for Joomla is new to me and had to learn from a number of sources, mainly Youtube.  
+
+Joomla website = https://tezzas-tech.cloudaccess.host/  
+Youtube video about how to use Joomla = 
+
+## Estimated Hours 
+3-4 hours.
+
+## Content Insights
+todo
+## Career/Employability/Learning Insights
+
+### Career insights
+ By having the knowlegde of Joomla CMS and hosting my own content will help me if any upcoming career i choose to pursue. If i'm being honest I will not be pursuing a career that focus's on CMS or Joomla.
+
+### Employability insights
+todo
+
+### Learning insights
+todo
+
