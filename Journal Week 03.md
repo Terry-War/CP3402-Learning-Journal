@@ -1,4 +1,3 @@
-
 # Week 03 - learning Journal 
 ## Learning Activities & Resources
 Held group interviews with the majority of the Townsville class. Learned some interesting facts about other classmates and their skills, experience, and work styles. This helped identify who may be suitable group members for future assessments.

@@ -1,6 +1,12 @@
-# Week 05 - learning Journal 
+# Week 05 - learning Journal - WordPress Child Themes
 ## Learning Activities & Resources
-WordPress Child Themes
+
+Task: using either your first assignment or another WordPress site, create a child theme with at least 6 visible customisations.
+
+Create a folder inside themes with the recommended naming convention, copy or create a new style.css file (and remember to refer to the parent theme in the comment, e.g., if the parent theme were "twentysixteen", Template: twentysixteen), and create functions.php to enqueue the style file(s), as explained in class (see notes).
+
+You might like to use your browser's inspector to make live changes, then copy these to your CSS file.
+created a clone of wordpress local version of Tezza Tech from the A1 assessment.
 ## Estimated Hours
 ## Content Insights
 ## Career
